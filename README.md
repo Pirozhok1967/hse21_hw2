@@ -1,5 +1,6 @@
 # Домашнее задание 2
-(Гугл колаб с биопитоном) [https://colab.research.google.com/drive/1dMTAIz0tXCDFUgcTRXHWgahNKxnuOCsH?usp=sharing] (весь код в гугл коллабе) <br>
+[Ссылка на коллаб](https://colab.research.google.com/drive/1dMTAIz0tXCDFUgcTRXHWgahNKxnuOCsH?usp=sharing) </br>
+
 Статистика о том:<br>
 Сколько было предсказано генов всего: 3565<br>
 Сколько из них удалось аннотировать с помощью сравнения с бактерией MIL-1: 3282<br>
